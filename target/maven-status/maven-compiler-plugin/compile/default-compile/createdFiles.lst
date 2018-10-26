@@ -1,0 +1,11 @@
+fr\xhackax47\application\Application.class
+fr\xhackax47\validator\Price.class
+fr\xhackax47\validator\PriceValidator.class
+fr\xhackax47\dao\VideoGameRepository.class
+fr\xhackax47\config\WebSecurityConfig.class
+fr\xhackax47\dao\UserRepository.class
+fr\xhackax47\controller\VideoGameController.class
+fr\xhackax47\exception\ResourceNotFoundException.class
+fr\xhackax47\config\AuthenticationService.class
+fr\xhackax47\model\User.class
+fr\xhackax47\model\VideoGame.class
